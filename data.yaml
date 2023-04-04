@@ -1,0 +1,7 @@
+train: F:/yolov5-7.0/data/Strawberry/train/images
+val: F:/yolov5-7.0/data/Strawberry/valid/images
+test: F:/yolov5-7.0/data/Strawberry/test/images
+
+nc: 3
+names: ['flower', 'unripe', 'ripe']
+
